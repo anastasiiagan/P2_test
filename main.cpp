@@ -7,5 +7,6 @@ int main()
 	std:: cin>>k;
 	for(int i=0; i<k; i++)
         std::cout<<i<<std::endl;
+        std::cout<<"ggggggggggg";
 	return 1;
 }
